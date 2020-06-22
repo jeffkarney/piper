@@ -218,7 +218,7 @@
                   <object class="GtkLabel">
                     <property name="visible">True</property>
                     <property name="can_focus">False</property>
-                    <property name="label" translatable="yes">Press Escape to cancel or Return to accept.</property>
+                    <property name="label" translatable="yes"></property>
                     <property name="wrap">True</property>
                     <property name="track_visited_links">False</property>
                     <style>
